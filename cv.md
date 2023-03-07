@@ -29,7 +29,7 @@ Hi, I am a beginner junior front-end developer, I love learning and improving my
 ## __Past projects__
 - __[www.street](https://kroshka0001.github.io/www.street)__
 - __[www_makets](https://photos.app.goo.gl/T26PkSvmghcUrnPn6)__
-- __[cv](https://kroshka0001.github.io/rsschool-cv)__
+- __[cv]([https://kroshka0001.github.io/rsschool-cv](https://kroshka0001.github.io/JS-FE-RS-2022Q4/)__
 - __[Travel](https://rolling-scopes-school.github.io/kroshka0001-JSFEPRESCHOOL2022Q2/travel/)__
 - __[Portfolio](https://rolling-scopes-school.github.io/kroshka0001-JSFEPRESCHOOL/portfolio/)__
 - __[Plants](https://rolling-scopes-school.github.io/kroshka0001-JSFEPRESCHOOL2022Q4/Plants/)__
