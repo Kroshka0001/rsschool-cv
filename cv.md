@@ -1,4 +1,4 @@
-# __[rsschool-cv](https://kroshka0001.github.io/rsschool-cv/)__
+# __CV__
 
 # __Yuliya Laptsinskaya__
 
@@ -25,11 +25,12 @@ Hi, I am a beginner junior front-end developer, I love learning and improving my
 - __Figma Community__
 - __3ds Max__
 - __Flash__
+- __Movavi Video Editor__
 
 ## __Past projects__
 - __[www.street](https://kroshka0001.github.io/www.street)__
 - __[www_makets](https://photos.app.goo.gl/T26PkSvmghcUrnPn6)__
-- __[cv]([https://kroshka0001.github.io/rsschool-cv](https://kroshka0001.github.io/JS-FE-RS-2022Q4/)__
+- __[cv](https://kroshka0001.github.io/JS-FE-RS-2022Q4/)__
 - __[Travel](https://rolling-scopes-school.github.io/kroshka0001-JSFEPRESCHOOL2022Q2/travel/)__
 - __[Portfolio](https://rolling-scopes-school.github.io/kroshka0001-JSFEPRESCHOOL/portfolio/)__
 - __[Plants](https://rolling-scopes-school.github.io/kroshka0001-JSFEPRESCHOOL2022Q4/Plants/)__
@@ -48,8 +49,7 @@ Hi, I am a beginner junior front-end developer, I love learning and improving my
 - __BELARUSIAN NATIONAL TECHNICAL UNIVERSITY Branch of BNTU "IPK and PK BNTU"__
     - Department of Innovation Processes
     - _Web-design and computer graphics_
-	
-	
+		
 ### __Courses:__
 - __Interior design in 3ds-Max C (Eshko):__ Certificate
 - __DevOps Fundamentals:__ In Progress
